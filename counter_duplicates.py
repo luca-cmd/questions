@@ -10,4 +10,4 @@ def main(string: str) -> dict[str, int]:
     return dictionary
 
 
-print(main("casa"))
+print(main("hello"))
